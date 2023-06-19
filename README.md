@@ -10,7 +10,7 @@ Talking about the features of Simple Membership Management system, the user can 
 
 Design of this project is pretty simple so that the user won’t find any difficulties while working on it. Simple Membership System in PHP helps the user in the managing members and clubs records. To run this project you must have installed virtual server i.e XAMPP on your PC (for Windows). Simple Membership System in PHP with source code is free to download, Use for educational purposes only! For the project demo, have a look at the GIF below.
 
-#LOG IN PAGE#
+##
 ![Capture](https://github.com/riley071/Membership-Managment-system-php/assets/81653537/a2455b47-dd00-4562-9495-5e0ee00d8935)
 
 ##
